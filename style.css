@@ -2,7 +2,7 @@
 
 body {
     font-family: "Cairo Play", Arial, sans-serif;
-    background-color: rgb(211, 254, 255);
+    background-color: rgb(211, 194, 163);
 }
 
 .dishes-container {
@@ -57,7 +57,7 @@ body {
 }
 
 .flip-card-back {
-    background-color: rgb(211, 254, 255);
+    background-color: rgb(211, 194, 163);
     display: flex;
     justify-content: center;
     align-items: center;
